@@ -4,7 +4,7 @@
 
 
 
- - 🌍 I'm based in **Benson, North Carolina, USA**
+ - 🌍 I'm based in **Whiteville, North Carolina, USA**
 - 🖥️ See my protfolio *<u><a href=https://stephanfward.wordpress.com/projects-2/ target="_blank">Stephan's Portfolio</a></u>*
 - ✉️ Contact Me At *<u><a href=mailto:stephan.ward5@icloud.com target="_blank">stephan.ward5@icloud.com</a></u>*
 
