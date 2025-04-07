@@ -48,8 +48,3 @@
 <a href="https://www.figma.com/" target="_blank" ><img src="https://res.cloudinary.com/dreamlist/image/upload/v1676730196/ease-prof/programming%20languages/icons8-figma_ikwot6.svg" height="40" width="40" alt=Figma/>
 <a href="https://www.sketch.com/" target="_blank" ><img src="https://res.cloudinary.com/dreamlist/image/upload/v1676730221/ease-prof/programming%20languages/sketch-2_kj7bdk.svg" height="40" width="40" alt=Sketch/>
 
-<h2>Badges</h2>
-
-
-<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=StephanWard&layout=compact&theme=dark"/>
-
