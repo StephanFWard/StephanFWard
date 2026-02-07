@@ -4,7 +4,7 @@
 
 
 
- - 🌍 I'm based in **Whiteville, North Carolina, USA Not Benson, I work Remotely **
+ - 🌍 I'm based in **Whiteville, North Carolina, I work Remotely **
 - 🖥️ See some of my protfolio *<u><a href=https://stephanfward.wordpress.com/projects-2/ target="_blank">Stephan's Portfolio</a></u>*
 - 40+ repos & CI/CD Active Servers
 - ✉️ Contact Me At *<u><a href=mailto:stephan.ward5@icloud.com target="_blank">stephan.ward5@icloud.com</a></u>*
