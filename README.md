@@ -10,8 +10,8 @@
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=StephanWardVA&style=for-the-badge&color=blue" alt="Profile views"/>
-  <img src="https://img.shields.io/github/followers/StephanWardVA?style=for-the-badge&label=Followers" alt="GitHub followers"/>
-  <img src="https://img.shields.io/github/stars/StephanWardVA?style=for-the-badge&label=Stars" alt="GitHub stars"/>
+  <img src="https://img.shields.io/github/followers/StephanFWard?style=for-the-badge&label=Followers" alt="GitHub followers"/>
+  <img src="https://img.shields.io/github/stars/StephanFWard?style=for-the-badge&label=Stars" alt="GitHub stars"/>
 </p>
 
 ---
@@ -346,11 +346,11 @@ C++ development and systems-programming work.
 
 | Project                                                                                                                                                     | Technology   | Focus                                  |
 | ----------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------ | -------------------------------------- |
-| [interfacetestbot](https://github.com/StephanWardVA/interfacetestbot)                                                                                       | JavaScript   | Frontend automation                    |
-| [RubyAI](https://github.com/StephanWardVA/RubyAI)                                                                                                           | Ruby         | USPTO API / JSON processing            |
-| [sodoku](https://github.com/StephanWardVA/sodoku)                                                                                                           | Ruby         | Backtracking algorithms                |
-| [C-Mongo-Gorillas](https://github.com/StephanWardVA/C-Mongo-Gorillas)                                                                                       | C# / MongoDB | Repository/business-layer architecture |
-| [Facebook-Automation-with-Multilogin-and-Residential-Proxies](https://github.com/StephanWardVA/Facebook-Automation-with-Multilogin-and-Residential-Proxies) | Python       | Automation experimentation             |
+| [interfacetestbot](https://github.com/StephanFWard/interfacetestbot)                                                                                       | JavaScript   | Frontend automation                    |
+| [RubyAI](https://github.com/StephanFWard/RubyAI)                                                                                                           | Ruby         | USPTO API / JSON processing            |
+| [sodoku](https://github.com/StephanFWard/sodoku)                                                                                                           | Ruby         | Backtracking algorithms                |
+| [C-Mongo-Gorillas](https://github.com/StephanFWard/C-Mongo-Gorillas)                                                                                       | C# / MongoDB | Repository/business-layer architecture |
+| [Facebook-Automation-with-Multilogin-and-Residential-Proxies](https://github.com/StephanFWard/Facebook-Automation-with-Multilogin-and-Residential-Proxies) | Python       | Automation experimentation             |
 
 ---
 
@@ -429,15 +429,15 @@ East Carolina University
 # 📊 GitHub Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=StephanWardVA&show_icons=true&include_all_commits=true&count_private=true&hide_border=true" alt="Stephan Ward GitHub statistics"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=StephanFWard&show_icons=true&include_all_commits=true&count_private=true&hide_border=true" alt="Stephan Ward GitHub statistics"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=StephanWardVA&layout=compact&langs_count=10&hide_border=true" alt="Stephan Ward most used languages"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=StephanFWard&layout=compact&langs_count=10&hide_border=true" alt="Stephan Ward most used languages"/>
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=StephanWardVA&hide_border=true" alt="GitHub contribution streak"/>
+  <img src="https://streak-stats.demolab.com?user=StephanFWard&hide_border=true" alt="GitHub contribution streak"/>
 </p>
 
 ---
@@ -468,7 +468,7 @@ My formal software-development and IT-management education includes coursework i
 | Resource                  | Link                                                                                        |
 | ------------------------- | ------------------------------------------------------------------------------------------- |
 | 🌐 Professional Portfolio | [stephan-ward-bio-site.onrender.com](https://stephan-ward-bio-site.onrender.com/)           |
-| 💻 GitHub                 | [github.com/StephanWardVA](https://github.com/StephanFWard)                                |
+| 💻 GitHub                 | [github.com/StephanFWard](https://github.com/StephanFWard)                                |
 | 📂 Repository Portfolio   | [Browse all original repositories](https://stephan-ward-bio-site.onrender.com/repositories) |
 | 🚀 Project Portfolio      | [View selected projects](https://stephan-ward-bio-site.onrender.com/portfolio)              |
 | 📄 Résumé                 | [View professional résumé](https://stephan-ward-bio-site.onrender.com/resume)               |
@@ -495,6 +495,6 @@ I'm particularly interested in teams solving difficult technical problems where 
 
 <p align="center">
   <a href="https://stephan-ward-bio-site.onrender.com/">🌐 View Portfolio</a> •
-  <a href="https://github.com/StephanWardVA">💻 Explore My Code</a> •
+  <a href="https://github.com/StephanFWard">💻 Explore My Code</a> •
   <a href="mailto:stephan.ward5@icloud.com">✉️ Get In Touch</a>
 </p>
