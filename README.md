@@ -429,15 +429,30 @@ East Carolina University
 # 📊 GitHub Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=StephanFWard&show_icons=true&include_all_commits=true&count_private=true&hide_border=true" alt="Stephan Ward GitHub statistics"/>
+  <a href="https://github.com/stephanfward">
+    <img
+      src="https://github-readme-stats.vercel.app/api?username=stephanfward&show_icons=true&include_all_commits=true&count_private=true&hide_border=true"
+      alt="Stephan Ward GitHub Statistics"
+    />
+  </a>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=StephanFWard&layout=compact&langs_count=10&hide_border=true" alt="Stephan Ward most used languages"/>
+  <a href="https://github.com/stephanfward">
+    <img
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=stephanfward&layout=compact&langs_count=10&hide_border=true"
+      alt="Stephan Ward Most Used Languages"
+    />
+  </a>
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=StephanFWard&hide_border=true" alt="GitHub contribution streak"/>
+  <a href="https://github.com/stephanfward">
+    <img
+      src="https://streak-stats.demolab.com/?user=stephanfward&hide_border=true"
+      alt="Stephan Ward GitHub Contribution Streak"
+    />
+  </a>
 </p>
 
 ---
