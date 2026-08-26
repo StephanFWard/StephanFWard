@@ -4,7 +4,7 @@
 
 <p align="center">
   <a href="https://stephan-ward-bio-site.onrender.com/">🌐 Portfolio</a> •
-  <a href="https://github.com/StephanWardVA">💻 GitHub</a> •
+  <a href="https://github.com/StephanFWard">💻 GitHub</a> •
   <a href="mailto:stephan.ward5@icloud.com">✉️ Contact</a>
 </p>
 
