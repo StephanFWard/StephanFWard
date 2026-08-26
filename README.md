@@ -1,50 +1,500 @@
-<h1 align="center">👋 Hello, I'm Stephan Ward</h1>
+<h1 align="center">👋 Hi, I'm Stephan Ward</h1>
 
-<h3 align="center">Full-Stack Developer</h3>
+<h3 align="center">Full-Stack Software Engineer · AI/ML Developer · Cloud & DevOps Engineer</h3>
 
+<p align="center">
+  <a href="https://stephan-ward-bio-site.onrender.com/">🌐 Portfolio</a> •
+  <a href="https://github.com/StephanWardVA">💻 GitHub</a> •
+  <a href="mailto:stephan.ward5@icloud.com">✉️ Contact</a>
+</p>
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=StephanWardVA&style=for-the-badge&color=blue" alt="Profile views"/>
+  <img src="https://img.shields.io/github/followers/StephanWardVA?style=for-the-badge&label=Followers" alt="GitHub followers"/>
+  <img src="https://img.shields.io/github/stars/StephanWardVA?style=for-the-badge&label=Stars" alt="GitHub stars"/>
+</p>
 
- - 🌍 I'm based in **Whiteville, North Carolina, I work Remotely **
-- 🖥️ See some of my protfolio *<u><a href=https://stephan-ward-bio-site.onrender.com/ target="_blank">Stephan's Portfolio</a></u>*
-- 40+ repos & CI/CD Active Servers
-- ✉️ Contact Me At *<u><a href=mailto:stephan.ward5@icloud.com target="_blank">stephan.ward5@icloud.com</a></u>*
+---
 
+## 🚀 About Me
 
-- I enjoy the outdoors and learning about nearly everything. 
-<h2>Social</h2>
-<a href="https://www.github.com/StephanWardVA" target="_blank" ><img src="https://res.cloudinary.com/dreamlist/image/upload/v1676730434/ease-prof/social/github-tile_gsrozh.svg" height="40" width="40" alt=github/>
+I'm a **Full-Stack Software Engineer** with a multidisciplinary background spanning software development, information technology management, biochemistry, AI/ML experimentation, enterprise applications, and technical operations.
 
-<h2>Skills</h2>
-<a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" ><img src="https://res.cloudinary.com/dreamlist/image/upload/v1676609803/ease-prof/programming%20languages/c_bvvkhv.svg" height="40" width="40" alt=Cpp/>
-<a href="https://www.oracle.com/java/" target="_blank" ><img src="https://res.cloudinary.com/dreamlist/image/upload/v1676727028/ease-prof/programming%20languages/java-icon_ksqmpo.svg" height="40" width="40" alt=Java/>
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" ><img src="https://res.cloudinary.com/dreamlist/image/upload/v1676609805/ease-prof/programming%20languages/javascript_zl26n3.svg" height="40" width="40" alt=Javascript/>
-<a href="https://www.php.net/" target="_blank" ><img src="https://res.cloudinary.com/dreamlist/image/upload/v1676728606/ease-prof/programming%20languages/php-icon_l6wqva.svg" height="40" width="40" alt=PHP/>
-<a href="https://www.python.org/" target="_blank" ><img src="https://res.cloudinary.com/dreamlist/image/upload/v1676609806/ease-prof/programming%20languages/python_e8bquv.svg" height="40" width="40" alt=Python/>
-<a href="https://www.ruby-lang.org/en/" target="_blank" ><img src="https://res.cloudinary.com/dreamlist/image/upload/v1676609806/ease-prof/programming%20languages/ruby_kyqahz.svg" height="40" width="40" alt=Ruby/>
-<a href="https://www.typescriptlang.org/" target="_blank" ><img src="https://res.cloudinary.com/dreamlist/image/upload/v1676609806/ease-prof/programming%20languages/typescript_yy0l4p.svg" height="40" width="40" alt=Typescript/>
-<a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" ><img src="https://res.cloudinary.com/dreamlist/image/upload/v1676609810/ease-prof/others/html_lk2f50.svg" height="40" width="40" alt=HTML5/>
-<a href="https://www.w3.org/TR/CSS/#css" target="_blank" ><img src="https://res.cloudinary.com/dreamlist/image/upload/v1676609810/ease-prof/others/css_ebnigo.svg" height="40" width="40" alt=CSS3/>
-<a href="https://sass-lang.com/" target="_blank" ><img src="https://res.cloudinary.com/dreamlist/image/upload/v1676728717/ease-prof/programming%20languages/sass-1_e2j4kh.svg" height="40" width="40" alt=Sass/>
-<a href="https://tailwindcss.com/" target="_blank" ><img src="https://res.cloudinary.com/dreamlist/image/upload/v1676728764/ease-prof/programming%20languages/tailwindcss_ypanrz.svg" height="40" width="40" alt=TailwindCSS/>
-<a href="https://reactjs.org/" target="_blank" ><img src="https://res.cloudinary.com/dreamlist/image/upload/v1676609814/ease-prof/frameworks/react_cbllza.svg" height="40" width="40" alt=React/>
-<a href="https://vuejs.org/" target="_blank" ><img src="https://res.cloudinary.com/dreamlist/image/upload/v1676609815/ease-prof/frameworks/vuejs_odbyeo.svg" height="40" width="40" alt=Vue/>
-<a href="https://angular.io/" target="_blank" ><img src="https://res.cloudinary.com/dreamlist/image/upload/v1676609811/ease-prof/frameworks/angular_n87vbp.svg" height="40" width="40" alt=Angular/>
-<a href="https://jquery.com/" target="_blank" ><img src="https://res.cloudinary.com/dreamlist/image/upload/v1676728871/ease-prof/programming%20languages/jquery-4_pwnyqw.svg" height="40" width="40" alt=JQuery/>
-<a href="https://redux.js.org/" target="_blank" ><img src="https://res.cloudinary.com/dreamlist/image/upload/v1676609814/ease-prof/frameworks/redux_b2m6cp.svg" height="40" width="40" alt=Redux/>
-<a href="https://webpack.js.org/" target="_blank" ><img src="https://res.cloudinary.com/dreamlist/image/upload/v1676728935/ease-prof/programming%20languages/webpack-icon_w126yb.svg" height="40" width="40" alt=Webpack/>
-<a href="https://nodejs.org/en/" target="_blank" ><img src="https://res.cloudinary.com/dreamlist/image/upload/v1676729013/ease-prof/programming%20languages/nodejs-icon_xl8kno.svg" height="40" width="40" alt=NodeJS/>
-<a href="https://expressjs.com/" target="_blank" ><img src="https://res.cloudinary.com/dreamlist/image/upload/v1676729086/ease-prof/programming%20languages/icons8-express-js_j8xma8.svg" height="40" width="40" alt=Express/>
-<a href="https://www.oracle.com/uk/index.html" target="_blank" ><img src="https://res.cloudinary.com/dreamlist/image/upload/v1676609816/ease-prof/databases/oracle_ddegpb.svg" height="40" width="40" alt=Oracle/>
-<a href="https://www.mongodb.com/" target="_blank" ><img src="https://res.cloudinary.com/dreamlist/image/upload/v1676729142/ease-prof/programming%20languages/mongodb-icon-1_j4gilp.svg" height="40" width="40" alt=MongoDB/>
-<a href="https://www.mysql.com/" target="_blank" ><img src="https://res.cloudinary.com/dreamlist/image/upload/v1676729166/ease-prof/programming%20languages/mysql-6_ucn6fm.svg" height="40" width="40" alt=MySQL/>
-<a href="https://www.postgresql.org/" target="_blank" ><img src="https://res.cloudinary.com/dreamlist/image/upload/v1676609816/ease-prof/databases/postgresql_jz4fc4.svg" height="40" width="40" alt=PostgreSQL/>
-<a href="https://firebase.google.com/" target="_blank" ><img src="https://res.cloudinary.com/dreamlist/image/upload/v1676729196/ease-prof/programming%20languages/firebase-2_j0abc8.svg" height="40" width="40" alt=Firebase/>
-<a href="https://www.heroku.com/" target="_blank" ><img src="https://res.cloudinary.com/dreamlist/image/upload/v1676729297/ease-prof/programming%20languages/heroku-4_lpjrcz.svg" height="40" width="40" alt=Heroku/>
-<a href="https://dotnet.microsoft.com/en-us/" target="_blank" ><img src="https://res.cloudinary.com/dreamlist/image/upload/v1676729818/ease-prof/programming%20languages/dotnet-icon_zej18c.svg" height="40" width="40" alt=NET/>
-<a href="https://www.postman.com/" target="_blank" ><img src="https://res.cloudinary.com/dreamlist/image/upload/v1676726456/ease-prof/others/postman_ks3gcy.svg" height="40" width="40" alt=Postman/>
-<a href="https://git-scm.com/" target="_blank" ><img src="https://res.cloudinary.com/dreamlist/image/upload/v1676726456/ease-prof/others/git_xzurom.svg" height="40" width="40" alt=Git/>
-<a href="https://wordpress.org/documentation/" target="_blank" ><img src="https://res.cloudinary.com/dreamlist/image/upload/v1676729989/ease-prof/programming%20languages/wordpress-blue_ltrvxt.svg" height="40" width="40" alt=Wordpress/>
-<a href="https://www.adobe.com/uk/products/photoshop.html" target="_blank" ><img src="https://res.cloudinary.com/dreamlist/image/upload/v1676730022/ease-prof/programming%20languages/adobe-photoshop-2_sgivl3.svg" height="40" width="40" alt=Photoshop/>
-<a href="https://www.figma.com/" target="_blank" ><img src="https://res.cloudinary.com/dreamlist/image/upload/v1676730196/ease-prof/programming%20languages/icons8-figma_ikwot6.svg" height="40" width="40" alt=Figma/>
-<a href="https://www.sketch.com/" target="_blank" ><img src="https://res.cloudinary.com/dreamlist/image/upload/v1676730221/ease-prof/programming%20languages/sketch-2_kj7bdk.svg" height="40" width="40" alt=Sketch/>
+My work focuses on turning complex business requirements into maintainable software — from **AI-powered applications and REST APIs** to **enterprise platforms, databases, automation pipelines, cloud deployments, and production web applications**.
 
+I enjoy working across the entire software lifecycle:
+
+**Architecture → Development → Testing → CI/CD → Deployment → Operations → Optimization**
+
+### What I bring to an engineering team
+
+* 🧩 Full-stack application architecture and development
+* 🤖 AI/ML application development and experimentation
+* ☁️ Cloud, deployment, containerization and infrastructure
+* 🔌 REST APIs, integrations and distributed services
+* 🗄️ Relational and NoSQL database development
+* 🛡️ Authentication, authorization and secure application design
+* ⚙️ CI/CD, Git workflows and automated deployments
+* 🧪 Testing, debugging, QA/QC and production troubleshooting
+* 📊 Data processing, analytics and machine-learning experimentation
+* 👥 Agile development, technical leadership and cross-functional communication
+
+---
+
+## 🧭 Professional Snapshot
+
+| Area                     | Experience                                                              |
+| ------------------------ | ----------------------------------------------------------------------- |
+| 💻 Software Engineering  | Full-stack web, enterprise and API development                          |
+| 🤖 AI / ML               | AI applications, neural networks, NLP, document analysis and automation |
+| ☁️ Cloud                 | AWS, Render, Firebase and cloud-based application deployment            |
+| 🔧 DevOps                | Git, GitHub, CI/CD, Docker, Ansible and deployment automation           |
+| 🏗️ Backend              | Java, Spring Boot, Python, Flask, Ruby on Rails, Node.js, .NET          |
+| 🎨 Frontend              | React, Angular, Vue, JavaScript, TypeScript, HTML, CSS/SCSS             |
+| 🗄️ Databases            | PostgreSQL, MySQL, MariaDB, Oracle, MongoDB, SQLite                     |
+| 🔐 Security              | Authentication, SSO, Keycloak, application security and access controls |
+| 📡 Integration           | REST APIs, gRPC, Kafka, third-party APIs and cloud services             |
+| 📋 Engineering Practices | Agile, GitHub PR governance, QA/QC, code review and release management  |
+
+---
+
+# 🧠 Core Technology Stack
+
+### Languages
+
+<p>
+<img src="https://skillicons.dev/icons?i=java,python,javascript,typescript,ruby,php,cs,cpp,rust,kotlin,swift,bash" />
+</p>
+
+### Frontend
+
+<p>
+<img src="https://skillicons.dev/icons?i=react,angular,vue,redux,html,css,sass,tailwind,webpack" />
+</p>
+
+### Backend & Frameworks
+
+<p>
+<img src="https://skillicons.dev/icons?i=spring,nodejs,express,flask,rails,dotnet" />
+</p>
+
+### Databases & Data
+
+<p>
+<img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,sqlite,firebase,oracle" />
+</p>
+
+### Cloud, DevOps & Engineering
+
+<p>
+<img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,git,github,jenkins,ansible,linux" />
+</p>
+
+### Development & Collaboration
+
+<p>
+<img src="https://skillicons.dev/icons?i=vscode,idea,postman,figma,jira" />
+</p>
+
+---
+
+# ⭐ Selected Engineering Projects
+
+These projects represent original development work across AI, enterprise software, backend engineering, automation, data processing and systems programming.
+
+## 🤖 AI & Machine Learning
+
+### [InstantLegalDotAI](https://github.com/StephanWardVA/InstantLegalDotAI)
+
+**AI-powered legal document generation platform**
+
+* Python / Flask
+* OpenAI GPT-4 API
+* ReportLab PDF generation
+* Dynamic document generation
+* Business/legal workflow automation
+
+**Engineering focus:** AI integration, backend services, document generation and application workflow design.
+
+---
+
+### [AI-Browser-Compatible-PDF-Analysis](https://github.com/StephanWardVA/AI-Browser-Compatible-PDF-Analysis)
+
+**Browser-based AI document analysis system**
+
+Designed for searching and analyzing large PDF collections using AI-assisted retrieval.
+
+**Engineering focus:** AI-assisted document processing, research workflows and browser-based analysis.
+
+---
+
+### [AI-Mixture-of-Expert-Optimization](https://github.com/StephanWardVA/AI-Mixture-of-Expert-Optimization)
+
+**PyTorch Mixture-of-Experts demonstration**
+
+Implements a Mixture-of-Experts architecture with dynamic expert selection and a Flask interface.
+
+**Engineering focus:** neural-network architecture, model optimization and AI inference workflows.
+
+---
+
+### [AI-MRI-Analysis-DICOM](https://github.com/StephanWardVA/AI-MRI-Analysis-DICOM)
+
+**Medical imaging / DICOM processing**
+
+Demonstrates image slicing and preprocessing techniques applicable to medical-imaging analysis.
+
+**Engineering focus:** scientific computing, medical data processing and AI/ML preprocessing.
+
+---
+
+### [AIProject](https://github.com/StephanWardVA/AIProject)
+
+**AI / data-science experimentation**
+
+Jupyter-based experimentation and prototyping environment for AI and machine-learning development.
+
+---
+
+## 🐍 Python Engineering
+
+### [DeployFlaskWebOnGithub](https://github.com/StephanWardVA/DeployFlaskWebOnGithub)
+
+Flask application demonstrating deployment-oriented Python web development.
+
+### [Full-Stack-Python-Audio-Analysis](https://github.com/StephanWardVA/Full-Stack-Python-Audio-Analysis)
+
+Full-stack audio-analysis application using:
+
+* Python
+* Flask
+* SQLite
+* Web interface
+* Data processing
+
+### [openAI-server-client-chat](https://github.com/StephanWardVA/openAI-server-client-chat)
+
+Python client/server implementation demonstrating communication with GPT-4 through gRPC.
+
+### [ai_scrape_app](https://github.com/StephanWardVA/ai_scrape_app)
+
+USPTO patent-search application using the USPTO API to retrieve patent information in real time.
+
+---
+
+# ☕ Java & Enterprise Engineering
+
+### [stephanward-springboot-inventory](https://github.com/StephanWardVA/stephanward-springboot-inventory)
+
+**Spring Boot Inventory Management API**
+
+Demonstrates a REST-based inventory management backend using Spring Boot and H2.
+
+**Engineering focus:**
+
+* REST APIs
+* Spring Boot
+* Java
+* SQL
+* CRUD architecture
+* Backend service design
+
+---
+
+### [Spring-Boot-SSO-KeyCloke](https://github.com/StephanWardVA/Spring-Boot-SSO-KeyCloke)
+
+**Spring Boot + Keycloak SSO application**
+
+Demonstrates enterprise-style authentication and authorization integrated with a Spring application.
+
+**Engineering focus:**
+
+* Spring Boot
+* Keycloak
+* SSO
+* CRUD services
+* SQL
+* Authentication architecture
+
+---
+
+# ⚡ Event-Driven & Distributed Systems
+
+### [Kafka-App](https://github.com/StephanWardVA/Kafka-App)
+
+**Real-time inventory order-processing application**
+
+Uses separate producer and consumer services communicating through Apache Kafka.
+
+```text
+Producer
+   │
+   ▼
+Kafka Topic
+   │
+   ▼
+Consumer
+   │
+   ▼
+Inventory Processing
+```
+
+**Engineering focus:**
+
+* Event-driven architecture
+* Apache Kafka
+* Producer/consumer patterns
+* Distributed processing
+* Backend integration
+
+---
+
+# 💎 Systems & Blockchain
+
+### [rust-pegged-cryptocurrency](https://github.com/StephanWardVA/rust-pegged-cryptocurrency)
+
+Rust/Substrate cryptocurrency implementation exploring blockchain architecture and pegged-token concepts.
+
+**Engineering focus:**
+
+* Rust
+* Substrate
+* Blockchain architecture
+* Systems programming
+* Performance and memory safety
+
+---
+
+# 🌐 Web & Full-Stack Applications
+
+### [LocalChatApp](https://github.com/StephanWardVA/LocalChatApp)
+
+Full-stack internal communication application with a React frontend.
+
+### [compression-app](https://github.com/StephanWardVA/compression-app)
+
+Interactive React application demonstrating:
+
+* Huffman coding
+* Run-Length Encoding
+* Arithmetic coding
+* LZW compression
+
+### [InstantLegalDoc](https://github.com/StephanWardVA/InstantLegalDoc)
+
+Legal document-generation application using a C# backend and React frontend.
+
+### [InstantAIConsultantcy](https://github.com/StephanWardVA/InstantAIConsultantcy)
+
+AI consulting/application prototype demonstrating AI-oriented web development.
+
+---
+
+# 🗄️ Healthcare & Data Systems
+
+### [Hospital-Management-System](https://github.com/StephanWardVA/Hospital-Management-System)
+
+Hospital-management application using:
+
+* PHP
+* MariaDB
+* MySQL
+* Bootstrap
+* XAMPP
+* PDF generation
+
+Features include patient management, scheduling, billing and reporting workflows.
+
+---
+
+# 🔬 Scientific & Data Engineering
+
+My software work is complemented by a scientific background in **biochemistry and biophysics**, giving me experience approaching engineering problems from both computational and scientific perspectives.
+
+Areas represented in my work include:
+
+* Scientific data processing
+* Medical imaging
+* AI/ML experimentation
+* Data analysis
+* Neural-network prototyping
+* Patent information retrieval
+* Technical automation
+
+---
+
+# 🛠️ Infrastructure & Automation
+
+### [WANYAML](https://github.com/StephanWardVA/WANYAML)
+
+Network automation playbooks covering:
+
+* BGP
+* OSPF
+* VPN connectivity
+* Encryption policies
+* Authentication
+* ACL configuration
+
+### [CPP-Project](https://github.com/StephanWardVA/CPP-Project)
+
+C++ development and systems-programming work.
+
+---
+
+# 📱 Additional Projects
+
+| Project                                                                                                                                                     | Technology   | Focus                                  |
+| ----------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------ | -------------------------------------- |
+| [interfacetestbot](https://github.com/StephanWardVA/interfacetestbot)                                                                                       | JavaScript   | Frontend automation                    |
+| [RubyAI](https://github.com/StephanWardVA/RubyAI)                                                                                                           | Ruby         | USPTO API / JSON processing            |
+| [sodoku](https://github.com/StephanWardVA/sodoku)                                                                                                           | Ruby         | Backtracking algorithms                |
+| [C-Mongo-Gorillas](https://github.com/StephanWardVA/C-Mongo-Gorillas)                                                                                       | C# / MongoDB | Repository/business-layer architecture |
+| [Facebook-Automation-with-Multilogin-and-Residential-Proxies](https://github.com/StephanWardVA/Facebook-Automation-with-Multilogin-and-Residential-Proxies) | Python       | Automation experimentation             |
+
+---
+
+# 🏢 Professional Engineering Experience
+
+### Senior Full-Stack Developer — Insight Global / America’s Job Link Alliance
+
+Enterprise résumé platform development involving:
+
+* Ruby on Rails
+* REST APIs
+* PostgreSQL / Amazon RDS
+* Background jobs
+* Versioned résumé workflows
+* Recruiter Notes Cards
+* HAML
+* WCAG-oriented UI
+* GitHub pull-request governance
+* Agile sprint reviews
+* Ansible deployment procedures
+
+---
+
+### Founder & Software Engineer — Instant Legal & Business AI
+
+AI-powered document-generation platform involving:
+
+* Python
+* Flask
+* HTML
+* AI document generation
+* Authentication
+* Payment integration
+* State-specific document logic
+* Render deployment
+
+---
+
+### Founder & CEO — Propurty
+
+Property-management marketplace SaaS involving:
+
+* iOS
+* Web applications
+* Twilio
+* PayPal
+* Google Maps
+* Geolocation
+* Marketplace workflows
+* Contractor/customer communication
+
+---
+
+# 🎓 Education & Professional Development
+
+**M.Sc. Information Technology Management**
+Western Governors University
+
+**B.S. Software Development**
+Western Governors University
+
+**B.S. Biochemistry**
+East Carolina University
+
+### Selected Credentials
+
+* CAPM®
+* CompTIA Project+
+* CompTIA A+
+* ITIL 4 Foundation
+* AWS Advanced Networking training
+* CISA training
+
+---
+
+# 📊 GitHub Activity
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=StephanWardVA&show_icons=true&include_all_commits=true&count_private=true&hide_border=true" alt="Stephan Ward GitHub statistics"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=StephanWardVA&layout=compact&langs_count=10&hide_border=true" alt="Stephan Ward most used languages"/>
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=StephanWardVA&hide_border=true" alt="GitHub contribution streak"/>
+</p>
+
+---
+
+# 📚 Coursework & Engineering Foundations
+
+My formal software-development and IT-management education includes coursework in:
+
+* Software Engineering
+* Software Quality Assurance
+* Data Structures & Algorithms
+* Advanced Data Management
+* Data Management Applications
+* Web Development
+* Scripting & Programming
+* UI/UX Design
+* Network & Security Foundations
+* IT Project Management
+* Technology Operations
+* IT Sourcing & Development
+* Financial Management
+* Organizational Leadership
+
+---
+
+# 🌐 Portfolio & Professional Links
+
+| Resource                  | Link                                                                                        |
+| ------------------------- | ------------------------------------------------------------------------------------------- |
+| 🌐 Professional Portfolio | [stephan-ward-bio-site.onrender.com](https://stephan-ward-bio-site.onrender.com/)           |
+| 💻 GitHub                 | [github.com/StephanWardVA](https://github.com/StephanFWard)                                |
+| 📂 Repository Portfolio   | [Browse all original repositories](https://stephan-ward-bio-site.onrender.com/repositories) |
+| 🚀 Project Portfolio      | [View selected projects](https://stephan-ward-bio-site.onrender.com/portfolio)              |
+| 📄 Résumé                 | [View professional résumé](https://stephan-ward-bio-site.onrender.com/resume)               |
+| 🎓 Education & Coursework | [View IT coursework](https://stephan-ward-bio-site.onrender.com/classes)                    |
+| ✉️ Email                  | [stephan.ward5@icloud.com](mailto:stephan.ward5@icloud.com)                                 |
+
+---
+
+# 💼 What I'm Looking For
+
+I'm interested in opportunities involving:
+
+**Full-Stack Engineering · Backend Engineering · AI/ML Applications · Cloud Engineering · DevOps · Enterprise Application Development · Software Architecture · Technical Leadership**
+
+I'm particularly interested in teams solving difficult technical problems where software engineering, automation, AI and business requirements intersect.
+
+---
+
+<h3 align="center">Thanks for visiting my GitHub profile.</h3>
+
+<p align="center">
+  <strong>Build intelligently. Automate relentlessly. Ship reliably.</strong>
+</p>
+
+<p align="center">
+  <a href="https://stephan-ward-bio-site.onrender.com/">🌐 View Portfolio</a> •
+  <a href="https://github.com/StephanWardVA">💻 Explore My Code</a> •
+  <a href="mailto:stephan.ward5@icloud.com">✉️ Get In Touch</a>
+</p>
