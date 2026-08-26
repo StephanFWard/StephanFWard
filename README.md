@@ -429,21 +429,17 @@ East Carolina University
 # 📊 GitHub Activity
 
 <p align="center">
-  <a href="https://github.com/stephanfward">
-    <img
-      src="https://github-readme-stats.vercel.app/api?username=stephanfward&show_icons=true&include_all_commits=true&count_private=true&hide_border=true"
-      alt="Stephan Ward GitHub Statistics"
-    />
-  </a>
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=stephanfward&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=default"
+    alt="Stephan Ward GitHub Statistics"
+  />
 </p>
 
 <p align="center">
-  <a href="https://github.com/stephanfward">
-    <img
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=stephanfward&layout=compact&langs_count=10&hide_border=true"
-      alt="Stephan Ward Most Used Languages"
-    />
-  </a>
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=stephanfward&layout=compact&langs_count=10&hide_border=true&theme=default"
+    alt="Stephan Ward Most Used Languages"
+  />
 </p>
 
 <p align="center">
