@@ -5,7 +5,7 @@
 
 
  - 🌍 I'm based in **Whiteville, North Carolina, I work Remotely **
-- 🖥️ See some of my protfolio *<u><a href=[https://stephan-ward-bio-site.onrender.com/ target="_blank">Stephan's Portfolio</a></u>*
+- 🖥️ See some of my protfolio *<u><a href=https://stephan-ward-bio-site.onrender.com/ target="_blank">Stephan's Portfolio</a></u>*
 - 40+ repos & CI/CD Active Servers
 - ✉️ Contact Me At *<u><a href=mailto:stephan.ward5@icloud.com target="_blank">stephan.ward5@icloud.com</a></u>*
 
